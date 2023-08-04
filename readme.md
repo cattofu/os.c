@@ -1,4 +1,8 @@
 # cattofu/os.c
 this is a repo where I will store my code and resources while learning about Linux C programming...
 
-(there was a file was ready to be pushed over here but i accidentally delete the codespace and lose everything, so i think i should startover bruh)
+
+### License
+* This repository content are licensed under CC-BY 2.0, meaning you are free to use, adapt and share as long as you put the attribution, learn more at [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/)
+
+**CX**
