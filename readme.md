@@ -1,4 +1,5 @@
-# cattofu/os.c
+# I don't think I would have any motivation to continue this project
+### cattofu/os.c
 this is a repo where I will store my code and resources while learning about Linux C programming...
 
 
